@@ -1,5 +1,5 @@
 # dataset-for-turnning-section
-This is an image data set for monitoring the belt conveyor curve section, with a total of 200 images. 
+This is an image data set for monitoring the belt conveyor curve section, with a total of 200 images and the size of the image is 640×640. 
 
 The images it contains are mainly from web searches, and some are from the engineering sites done by our laboratory. 
 
